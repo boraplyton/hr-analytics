@@ -1,5 +1,5 @@
 # hr-analytics
-
+__[Просмотр ноутбука с интерактивными графиками](https://nbviewer.org/github/boraplyton/hr-analytics/blob/main/notebook.ipynb)__
 
 # Описание проекта
 
